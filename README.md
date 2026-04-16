@@ -13,10 +13,32 @@
 ---
 
 ### 🛠️ Technical Stack (The Pure Way)
-* **Core:** Native JavaScript (ES6+), CSS3 (Zero Frameworks), PHP.
-* **Data & Cloud:** Supabase, Vercel, Git.
-* **AI Intelligence:** Local LLMs (Ollama), Gemini API, Agentic Workflows.
-* **Legacy:** Indexing thousands of titles for Mega Drive & SNES.
+
+| Category | Technology | Philosophy |
+| :--- | :--- | :--- |
+| **Core Engine** | ![JS](https://img.shields.io/badge/Vanilla_JS-ES6+-black?style=for-the-badge&logo=javascript) ![CSS](https://img.shields.io/badge/Pure_CSS-3-black?style=for-the-badge&logo=css3) ![PHP](https://img.shields.io/badge/Native_PHP-8.x-black?style=for-the-badge&logo=php) | *Zero Frameworks, Maximum Performance.* |
+| **Data & Ops** | ![Supabase](https://img.shields.io/badge/Supabase-DB-black?style=for-the-badge&logo=supabase) ![Vercel](https://img.shields.io/badge/Vercel-Deploy-black?style=for-the-badge&logo=vercel) ![Git](https://img.shields.io/badge/Git-Workflow-black?style=for-the-badge&logo=git) | *Scalable infra with clean versioning.* |
+| **AI Intelligence** | ![Ollama](https://img.shields.io/badge/Ollama-Local_LLM-black?style=for-the-badge) ![Gemini](https://img.shields.io/badge/Gemini_API-Agentic-black?style=for-the-badge&logo=google-gemini) | *Private, local & agent-driven automation.* |
+| **Legacy Mining** | ![Sega](https://img.shields.io/badge/Sega_MD-16--bit-black?style=for-the-badge) ![SNES](https://img.shields.io/badge/SNES-Data-black?style=for-the-badge) | *Data preservation & technical indexing.* |
+
+---
+
+### 🎯 Key Specializations
+* **Performance First:** Aplicações com tempo de carregamento sub-segundo e manipulação direta do DOM.
+* **AI Integration:** Desenvolvimento de fluxos agenticos e automação utilizando LLMs locais e na nuvem.
+* **System Architecture:** Estruturação de sistemas B2B focados em escalabilidade e baixo custo de manutenção.
+
+---
+
+### 🎧 System Soundtrack
+* **Artist Profile:** [@lockebr on Suno](https://suno.com/@lockebr)
+
+> ### 🎵 Featured Track
+> **[Execute System Uplink](https://suno.com/song/18876459-4bee-40cb-977f-593bbff3e16a)**
+> 
+> _"An immersive journey through the binary void."_
+>
+> [ ![Suno Profile](https://img.shields.io/badge/Listen_on-Suno-black?style=for-the-badge&logo=suno&logoColor=white) ](https://suno.com/@lockebr)
 
 ---
 
@@ -33,4 +55,4 @@
 ---
 
 ### 📥 Connect
-[Website](https://universoagencia.com.br) | [LinkedIn](#) | [Email](#)
+[Website](https://universosites.com) | [LinkedIn](https://www.linkedin.com/in/mario-mariano-84590929/) | [Email](mailto:universosites@gmail.com)
