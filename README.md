@@ -7,7 +7,7 @@
 ### 📂 System Profile
 * **Role:** Founder & Lead Developer at Universo Agência Digital
 * **Location:** Sorocaba, BR 🇧🇷
-* **Philosophy:** Clean Engineering (Vanilla JS / Pure CSS / PHP)
+* **Philosophy:** Clean Engineering (Vanilla JS / Pure CSS / PHP) Hard Code, Smooth Performance  
 * **Aesthetic:** `[Star Wars]` `[Cyberpunk]` `[Noir]` `[Retrowave]`
 
 ---
@@ -16,9 +16,10 @@
 
 | Category | Technology | Philosophy |
 | :--- | :--- | :--- |
-| **Core Engine** | ![JS](https://img.shields.io/badge/Vanilla_JS-ES6+-black?style=for-the-badge&logo=javascript) ![CSS](https://img.shields.io/badge/Pure_CSS-3-black?style=for-the-badge&logo=css3) ![PHP](https://img.shields.io/badge/Native_PHP-8.x-black?style=for-the-badge&logo=php) | *Zero Frameworks, Maximum Performance.* |
+| **Neural Engines** | ![Gemini](https://img.shields.io/badge/Gemini_1.5_Pro-black?style=for-the-badge&logo=google-gemini) ![GPT-4o](https://img.shields.io/badge/GPT--4o-black?style=for-the-badge&logo=openai) ![Claude](https://img.shields.io/badge/Claude_3.5-black?style=for-the-badge&logo=anthropic) ![Llama](https://img.shields.io/badge/Llama_3-black?style=for-the-badge&logo=meta) ![Mistral](https://img.shields.io/badge/Mistral_AI-black?style=for-the-badge) ![Ollama](https://img.shields.io/badge/Ollama_Local-black?style=for-the-badge) | *Multi-model agentic orchestration.* |
+| **Development** | ![JS](https://img.shields.io/badge/Vanilla_JS-ES6+-black?style=for-the-badge&logo=javascript) ![PHP](https://img.shields.io/badge/Native_PHP-8.x-black?style=for-the-badge&logo=php) ![CSS](https://img.shields.io/badge/Pure_CSS-3-black?style=for-the-badge&logo=css3) | *Zero Frameworks, Maximum Performance.* |
+| **Interfaces** | ![VS Code](https://img.shields.io/badge/VS_Code-black?style=for-the-badge&logo=visual-studio-code) ![Antigravity](https://img.shields.io/badge/Antigravity-IDE-black?style=for-the-badge) ![Terminal](https://img.shields.io/badge/Terminal_Focus-black?style=for-the-badge&logo=gnumetallink) | *High-speed development environments.* |
 | **Data & Ops** | ![Supabase](https://img.shields.io/badge/Supabase-DB-black?style=for-the-badge&logo=supabase) ![Vercel](https://img.shields.io/badge/Vercel-Deploy-black?style=for-the-badge&logo=vercel) ![Git](https://img.shields.io/badge/Git-Workflow-black?style=for-the-badge&logo=git) | *Scalable infra with clean versioning.* |
-| **AI Intelligence** | ![Ollama](https://img.shields.io/badge/Ollama-Local_LLM-black?style=for-the-badge) ![Gemini](https://img.shields.io/badge/Gemini_API-Agentic-black?style=for-the-badge&logo=google-gemini) | *Private, local & agent-driven automation.* |
 | **Legacy Mining** | ![Sega](https://img.shields.io/badge/Sega_MD-16--bit-black?style=for-the-badge) ![SNES](https://img.shields.io/badge/SNES-Data-black?style=for-the-badge) | *Data preservation & technical indexing.* |
 
 ---
