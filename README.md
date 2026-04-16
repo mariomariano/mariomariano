@@ -49,10 +49,5 @@
 
 ---
 
-### 📊 System Metrics
-![Mário's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mariomariano&show_icons=true&theme=radical&hide_border=true)
-
----
-
 ### 📥 Connect
 [Website](https://universosites.com) | [LinkedIn](https://www.linkedin.com/in/mario-mariano-84590929/) | [Email](mailto:universosites@gmail.com)
